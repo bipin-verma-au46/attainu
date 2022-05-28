@@ -1,0 +1,16 @@
+ANSWER
+1. git pull: this command is used to get update from remote repo.						git pull   <remote>
+
+2. git push: this command is used to uploads commits to the remote repo.					git push <remote>  <branchname>
+
+3. git log: git log command used to show history of everything that happens to a repo.																git log
+
+4. git status: git status is used to show necessary information about current branch like file are staged,untracked,unstaged etc.								git status
+
+5. git commit: git commit command is used to tracked of changes or modification in file .												           	git commit
+
+6. git clone: git command is used to downloading exiting source code from a remote repo.											                         git clone  <link>
+
+7. git checkout: it is used to switching between branches.							git checkout <branch name>
+
+8. git branch : git branch is used to create a new branch.						              git branch  <branchname>
